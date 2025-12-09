@@ -1,8 +1,8 @@
-# 0xProto
+# Lucid
 
-[0xProto](https://github.com/0xType/0xProto) is a programming font focused on source code **legibility**.
+[Lucid](https://github.com/ShalokShalom/Lucid) is a programming font focused on source code **legibility**.
 
-Ensuring code **readability** is your own responsibility ;)
+It was forked from 0xProto, since that name caused incompatibilities with most editors in use.
 
 ![0xProto](./images/examples.png)
 
@@ -22,7 +22,7 @@ Maintaining clarity in coding is critical as it minimizes ambiguity and helps pr
 
 ![Distinction](./images/distinction.png)
 
-0xProto is a cohesive font ingeniously designed to enhance differentiation between similar-looking letters.
+Lucid is a cohesive font ingeniously designed to enhance differentiation between similar-looking letters.
 
 ### 2. Legibility in small font size
 
@@ -37,7 +37,7 @@ This feature slightly widens characters like `m` to improve legibility when they
 
 ### 3. More whitespace
 
-Compared to regular typefaces, monospaced fonts often exhibit uneven distribution of dark and light spaces. 0xProto effectively mitigates this issue by employing unique letter shapes to maintain visual balance.
+Compared to regular typefaces, monospaced fonts often exhibit uneven distribution of dark and light spaces. Lucid effectively mitigates this issue by employing unique letter shapes to maintain visual balance.
 
 ![More whitespace](./images/whitespace.png)
 
@@ -45,22 +45,23 @@ Compared to regular typefaces, monospaced fonts often exhibit uneven distributio
 
 Software engineers frequently use a variety of symbols while programming.
 
-As [Fira Code suggests](https://github.com/tonsky/FiraCode#problem), sequences such as `:=` or `=>` function as single logical tokens, even though they are composed of two characters on the screen.
+As [Fira Code suggests](https://github.com/tonsky/FiraCode#problem), sequences such as `:=` or `=>` function as single logical tokens, even though they are composed of two characters on the screen.  
+
 However, many programming fonts, such as Fira Code, use ligatures, for example, to change the appearance of `!=` to change its appearance to `≠` and other ligatures. Although `!=` is commonly used to represent `≠` in many programming languages, in my view, ligatures that alter the original meaning do not truly fit the definition of "ligatures".
 
 From a functional or usability standpoint, ligatures that transform the meaning of `≠` or other overly distorted ligatures make it challenging to anticipate their meaning if any part of the string is erased.
 
 ![Ligatures that DON'T deform shape](./images/ligatures.png)
 
-For these reasons, 0xProto has made a conscious decision to abstain from using ligatures that modify both meaning and form.
+For these reasons, Lucid has made a conscious decision to abstain from using ligatures that modify both meaning and form.
 
-If you prefer the programming ligature so far, I recommend Fira Code because it is very clean and useful!
+If you prefer the programming ligatures that deform, I recommend Fira Code, and Jetbrains Mono, because they are very clean and pretty! 🙂
 
 ## OpenType features
 
 ### Script Variant (`ss01`)
 
-In the Italic family of 0xProto, some characters can be changed to script.
+In the Italic family of Lucid, some characters can be changed to script.
 
 ![Script Variant](./images/ss01.png)
 
@@ -68,13 +69,13 @@ How to enable:
 
 - [Visual Studio Code](https://github.com/microsoft/vscode/issues/84018)
 - [other tools](https://github.com/tonsky/FiraCode/wiki/How-to-enable-stylistic-sets)
-  - This is a Fira Code document; the Script Variant for 0xProto is `ss01`.
+  - This is a Fira Code document; the Script Variant for Lucid is `ss01`.
 
-## How to use 0xProto in Visual Studio Code
+## How to use Lucid in Visual Studio Code
 
 1. Open `Settings`
 1. Go `Text Editor` -> `Font` -> `Font Family`
-1. Input box type: `"0xProto"` (Enclose `0xProto` in quotation marks `'` or double quotation marks `"`.)
+1. Input box type: `Lucid`
 
 To enable ligatures:
 
@@ -84,25 +85,21 @@ To enable ligatures:
 
 ## Quick Q&A
 
-**Q. Can I legally use 0xProto for my purpose?**
+**Q. Can I legally use Lucid for my purpose?**
 
-A. Most likely YES. 0xProto is free and open source. For details, [read the LICENSE](./LICENSE).
+A. Most likely YES. Lucid is free and open source. For details, [read the LICENSE](./LICENSE).
 
-**Q. Where can I get 0xProto?**
+**Q. Where can I get Lucid?**
 
 A. [Here](https://github.com/0xType/0xProto/releases)
 
-**Q. What is "0xProto NL"?**
+**Q. What is "Lucid old-school"?**
 
 No Ligatures fonts. Why: https://github.com/0xType/0xProto/issues/116
 
-**Q. What is "Zx Proto"?**
-
-Same as 0xProto. Why: https://github.com/0xType/0xProto/pull/112
-
 **Q. Other questions?**
 
-Feel free to [create an issue](https://github.com/0xType/0xProto/issues?q=is%3Aissue%20) and ask questions. But please make sure that there is a previous issue with the same question.
+Feel free to [create an issue](https://github.com/ShalokShalom/Lucid/issues) and ask questions.
 
 ## License
 
