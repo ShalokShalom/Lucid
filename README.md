@@ -105,4 +105,4 @@ Feel free to [create an issue](https://github.com/ShalokShalom/Lucid/issues) and
 
 The SIL Open Font License, Version 1.1
 
-Copyright (c) 2025 [ShalokShalom](https://ShalokShalom.dev)
+Copyright (c) 2025 [0xType](https://0xType.dev)
