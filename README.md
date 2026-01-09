@@ -2,13 +2,13 @@
 
 [Lucid](https://github.com/ShalokShalom/Lucid) is a programming font focused on source code **legibility**.
 
-It was forked from 0xProto, since that name caused incompatibilities with most editors in use.
+It was forked from Lucid, since that name caused incompatibilities with most editors in use.
 
-![0xProto](./images/examples.png)
+![Lucid](./images/examples.png)
 
 ## Installation
 
-1. [Download font files](https://github.com/0xType/0xProto/releases/latest)
+1. [Download font files](https://github.com/ShalokShalom/Lucid/releases/latest)
 1. Unzip the archive and install the font:
     - macOS: Drag & Drop the font file to Font Book (or the other font management app)
     - Windows: right-click any of them, then pick `Install` from the menu
@@ -91,11 +91,11 @@ A. Most likely YES. Lucid is free and open source. For details, [read the LICENS
 
 **Q. Where can I get Lucid?**
 
-A. [Here](https://github.com/0xType/0xProto/releases)
+A. [Here](https://github.com/ShalokShalom/Lucid/releases)
 
 **Q. What is "Lucid old-school"?**
 
-No Ligatures fonts. Why: https://github.com/0xType/0xProto/issues/116
+No Ligatures fonts. Why: https://github.com/ShalokShalom/Lucid/issues/116
 
 **Q. Other questions?**
 
@@ -105,4 +105,4 @@ Feel free to [create an issue](https://github.com/ShalokShalom/Lucid/issues) and
 
 The SIL Open Font License, Version 1.1
 
-Copyright (c) 2025 [0xType](https://0xtype.dev)
+Copyright (c) 2025 [ShalokShalom](https://ShalokShalom.dev)

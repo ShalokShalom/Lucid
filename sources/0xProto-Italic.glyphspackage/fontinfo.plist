@@ -44,7 +44,7 @@ value = 0;
 }
 );
 date = "2026-01-06 06:05:20 +0000";
-familyName = 0xProto;
+familyName = Lucid;
 featurePrefixes = (
 {
 automatic = 1;
@@ -1042,7 +1042,7 @@ key = postscriptFullNames;
 values = (
 {
 language = dflt;
-value = "0xProto Italic";
+value = "Lucid Italic";
 }
 );
 }
@@ -1076,20 +1076,20 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "0xType Project Authors (https://github.com/0xType)";
+value = "ShalokShalom Project Authors (https://github.com/ShalokShalom)";
 }
 );
 },
 {
 key = manufacturerURL;
-value = "https://0xtype.dev/";
+value = "https://ShalokShalom.dev/";
 },
 {
 key = postscriptFullNames;
 values = (
 {
 language = dflt;
-value = "0xProto Italic";
+value = "Lucid Italic";
 }
 );
 },

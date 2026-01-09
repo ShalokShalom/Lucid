@@ -1,4 +1,4 @@
-FONT_NAME = 0xProto
+FONT_NAME = Lucid
 FAMILIES = Regular Italic Bold
 SOURCE_DIR = sources
 ROMAN_GLYPHS_FILE = $(SOURCE_DIR)/$(FONT_NAME).glyphspackage
@@ -17,7 +17,7 @@ setup-woff2:
 	cd $(WOFF2_DIR) && make clean all
 
 setup-scripts:
-	git clone https://github.com/0xtype/font-scripts
+	git clone https://github.com/ShalokShalom/font-scripts
 
 .PHONY: build
 build:
